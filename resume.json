@@ -1,0 +1,194 @@
+{
+  "basics": {
+    "name": "Mathieu Perrais",
+    "label": "iOS developer",
+    "email": "work@mathieuperrais.com",
+    "phone": "+1 (415) 623-4048",
+    "summary": "I spent the first half of my career advising businesses on their mobile development needs, gathering and defining requirements and delivering end-to-end iOS apps for a wide range of industries. The second half of my career has been focused on high quality projects in which I took the lead in framework, tooling and advanced UI development whilst keeping my team and I up to date with the best practices. Throughout my career I was able to innovate and share my deep interest in all specificities of app design.",
+    "location": {
+      "address": "536 Leavenworth St",
+      "postalCode": "94109",
+      "city": "San Francisco",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "Linkedin",
+        "username": "mathieuperrais",
+        "url": "https://www.linkedin.com/in/mathieuperrais/"
+      },
+      {
+        "network": "Github",
+        "username": "MathieuPerrais",
+        "url": "https://github.com/MathieuPerrais/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "JUUL Labs",
+      "position": "iOS Developer",
+      "website": "https://juul.com",
+      "startDate": "2018-12",
+      "endDate": "2020-05",
+      "summary": "Worked on companion apps both on iOS and Android for a bluetooth connected vaping device",
+      "highlights": [
+        "Developed a new iPhone companion app for JUUL Labs new connected product working with Bluetooth LE technology and driving most of the front-end and UI architectural decisions",
+        "Member of a large cross-functional team and work closely with designers, security experts and firmware engineers",
+        "Lead UI test automation efforts for the companion Android app & trained junior members of the QA team to tools and best practices"
+      ]
+    },
+    {
+      "company": "Dolo app (Tea Time Labs)",
+      "position": "Lead iOS Developer",
+      "website": "",
+      "startDate": "2018-06",
+      "endDate": "2018-10",
+      "summary": "Lead the development of an improved and redesigned version of a location-based social media app."
+    },    
+    {
+      "company": "YOOX NET-A-PORTER",
+      "position": "iOS Developer",
+      "website": "https://www.net-a-porter.com",
+      "startDate": "2016-12",
+      "endDate": "2017-04",
+      "summary": "Maintained and improved the universal apps of the two leading brands of the YNAP group: NET-A-PORTER & MR PORTER",
+      "highlights": [
+        "Led teams of junior and offshore developers assuring both quality of work and people’s development",
+        "Led several UX improvements around on boarding, product browsing, spotlight search and authentication"
+      ]
+    },
+    {
+      "company": "Deloitte Digital UK",
+      "position": "Senior Consultant",
+      "website": "https://www.deloittedigital.co.uk",
+      "startDate": "2014-05",
+      "endDate": "2016-10",
+      "summary": "As part of a global consulting and digital agency, I worked for several clients in the banking, insurance and retail industries",
+      "highlights": [
+        "Developed iOS enterprise and store apps for global B2B and B2C companies in Swift and Objective-C",
+        "Ran workshops, defined requirements and stories, helped prioritizing and advised on release strategy and planning",
+        "Worked in teams both onshore and offshore and I led small (2 to 5 people) Scrum and Kanban teams through all build stages",
+        "Certified Scrum Product Owner – Scrum Alliance, April 2016"
+      ]
+    },
+    {
+      "company": "Vortilla Digital",
+      "position": "Mobile application developer",
+      "website": "",
+      "startDate": "2013-06",
+      "endDate": "2014-02",
+      "summary": "Worked on projects for iOS, Android and Windows Phone as part of a mobile development agency"
+    },
+    {
+      "company": "Capgemini",
+      "position": "Software Developer",
+      "website": "https://www.capgemini.com",
+      "startDate": "2013-02",
+      "endDate": "2011-02",
+      "summary": "Worked in an innovative and multidisciplinary team specialized in new uses and natural user interface.",
+      "highlights": [
+        "Technology consulting",
+        "iPhone and Android developer",
+        "Silverlight developer, kiosks, Microsoft PixelSense"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Polytech'Nantes",
+      "area": "Department of Computer Science",
+      "studyType": "Master's degree",
+      "startDate": "2008-09",
+      "endDate": "2011-06",
+      "courses": [
+        "Software programming",
+        "theoretical computer science",
+        "databases",
+        "computer systems and networks",
+        "business intelligence",
+        "artificial intelligence",
+        "image processing",
+        "Theoretical and applied mathematics",
+        "Economics",
+        "Management",
+        "Law"
+      ]
+    },
+    {
+      "institution": "Heriot-Watt University",
+      "area": "Department of Computer Science",
+      "studyType": "Bachelor's degree (with Certificate of Merit)",
+      "startDate": "2007",
+      "endDate": "2008"
+    },
+    {
+      "institution": "University of Nantes",
+      "area": "Department of Computer Science",
+      "studyType": "Two-year university diploma",
+      "startDate": "2005",
+      "endDate": "2007"
+    }
+  ],
+  "skills": [
+    {
+      "name": "iOS Development",
+      "level": "Senior",
+      "keywords": [
+        "Swift",
+        "Objective-C",
+        "UIKit",
+        "XCTest/XCUITest",
+        "APNS",
+        "RxSwift/Combine",
+        "CoreData/Realm",
+        "Core Graphics",
+        "i18n"
+      ]
+    },
+    {
+      "name": "QA/DevOps",
+      "level": "Junior",
+      "keywords": [
+        "UNIX tools/scripting",
+        "CI/CD",
+        "Jenkins, CircleCI",
+        "fastlane, Github Actions",
+        "SwiftLint/codecov"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "French",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Basic knowledge"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Mobile UX, design & video editing",
+      "keywords": [
+        "Figma",
+        "Sketch",
+        "Premiere",
+        "Vegas Pro"
+      ]
+    },
+    {
+      "name": "Traveling",
+      "keywords": [
+        "Lived in 7 countries",
+        "Visited 20+ countries"
+      ]
+    }
+  ]
+}

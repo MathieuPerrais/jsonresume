@@ -1,0 +1,17 @@
+{
+  "name": "jsonresume-theme-personal",
+  "version": "0.1.0",
+  "description": "A custom theme for JSONResume that easily integrates with my personal website",
+  "author": "Mathieu Perrais",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MathieuPerrais/jsonresume-theme-personal"
+  },
+  "scripts": {
+    "start": "resume serve"
+  },
+  "dependencies": {
+    "handlebars": "^2.0.0"
+  },
+  "license": "MIT"
+}
